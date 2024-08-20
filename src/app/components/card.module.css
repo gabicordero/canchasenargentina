@@ -1,0 +1,34 @@
+.card {
+  text-align: left;
+  padding: 10px 20px;
+  list-style-type: none;
+  background: #181818;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.card h3 {
+  padding: 1px;
+  margin: 0;
+  color: whitesmoke;
+}
+
+.card li {
+  list-style-type: none;
+}
+
+.info {
+  padding: 10px 0;
+}
+
+.map {
+  width: 100%;
+}
+
+.camplist {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
